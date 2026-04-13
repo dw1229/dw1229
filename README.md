@@ -8,10 +8,10 @@ UC Berkeley MSSE student with a chemistry background. Interested in machine lear
 
 ## UC Berkeley Project Work
 - [msse-chem-274b-final-project-g6](https://github.com/trinity-h99/msse-chem-274b-final-project-g6)  
-  Collaborative UC Berkeley MSSE group project focused on computational toxicology, machine learning, and molecular data analysis.
+  Collaborative UC Berkeley MSSE group software engineering project focused on implementing a progressively expanded banking system with transaction processing, cashback scheduling, and account history management.
 
 - [msse-chem274b-micropresentation-g6](https://github.com/trinity-h99/msse-chem274b-micropresentation-g6)  
-  Collaborative UC Berkeley MSSE group micropresentation project presenting a chemistry or data science topic in a short research presentation format.
+  Collaborative UC Berkeley MSSE group project evaluating brute-force and ternary search trie algorithms for scalable pattern matching on real genomic datasets.
 
 - Toxicology classification project  
   Collaborative UC Berkeley deep learning group project on molecular toxicology classification. Repository will be added later.
@@ -22,7 +22,7 @@ UC Berkeley MSSE student with a chemistry background. Interested in machine lear
 ## Interests
 - Machine learning
 - Computational chemistry
-- Feature selection and classification
+- Data Science and Analysis
 - Scientific software
 - Interdisciplinary research and lab work
 <!--
