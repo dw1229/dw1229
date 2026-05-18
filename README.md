@@ -4,7 +4,7 @@ UC Berkeley MSSE student with a chemistry background. Interested in machine lear
 
 ## UC Berkeley Group Project Work
 
-- [Evidence-Aware Validation of AI-Generated Drug Candidates](https://github.com/Zander-Rothering/Evidence-Aware-Validation-of-AI-Generated-Drug-Candidates-Using-PPI-Networks)  
+- [Evidence-Aware Validation of AI-Generated Drug Candidates](https://github.com/dw1229/Evidence-Aware-Validation-of-AI-Generated-Drug-Candidates-Using-PPI-Networks)  
   Collaborative UC Berkeley machine learning group project focused on validating MolGPT-generated statin candidates through compound matching, NLP-based literature safety analysis, and GNN/PPI network context.
 
 - [E. coli Drug Inhibition Classification](https://github.com/dw1229/chem277a-final-ecoli-inhibition-ml)  
